@@ -1,7 +1,7 @@
 # 職業（しょくぎょう）：メモ
 僧侶＋戦士＝？
 
-# 僧侶
+# 僧侶（そうりょ）
 ## Recommended Actions:
 ### 1) teach: @SCHOOL
 --> received: from student, question on TIME: how to experience ETERNITY<br/>
@@ -20,7 +20,7 @@
 --> ANSWER: Forget who YOU are; Remember who YOU are;<br/> 
 --> keyphrase: Guide to TIME;
 
-# 戦士
+# 戦士（せんし）
 ## Recommended Actions:
 ### 1) execute: physical exercise 
 --> example: continuous running for 6kms (max) every day
