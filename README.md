@@ -1,6 +1,30 @@
 # 職業（しょくぎょう）：メモ
 僧侶＋戦士＝？
 
+# 僧侶
+## Recommended Actions:
+### 1) teach: @SCHOOL
+--> received: from student, question on TIME: how to experience ETERNITY<br/>
+--> shared: 哲学者　(てつがくしゃ；philosophers) from China travelled to Japan;<br/>
+--> TIME of WAR; Samurai (male and female) searching for ANSWER TO PEACE OF MIND;<br/>
+
+### 2) learn: to prepare 煎茶（せんちゃ; green tea）
+--> A set of green tea leaves can be reused for 2~3times;<br/>
+--> If left as is, becomes brown to be classified via taste as 烏龍茶 (ウーロンちゃ； OOLONG Tea）<br/>
+--> Put cooked tea inside the refrigerator if weather is too hot;<br/>
+
+## Recommended Reading:
+### 1) 聖書 (せいしょ; HOLY BOOK, BIBLE)： 
+--> shared: from Middle-East, 聖書 offered ANSWER to QUESTION<br/>
+--> on: HOW TO BE KING OF KINGDOM THAT NEVER ENDS;<br/> 
+--> ANSWER: Forget who YOU are; Remember who YOU are;<br/> 
+--> keyphrase: Guide to TIME;
+
+# 戦士
+## Recommended Actions:
+### 1) execute: physical exercise 
+--> example: continuous running for 6kms (max) every day
+
 
 # Creative Commons License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/; last accessed: 20180601
