@@ -35,18 +35,18 @@
 --> literature; another way of thinking
 
 #### Example#1: Chinese Mandarin @Confucius Institute, et cetera
---> 汉语水平考试 （HSK) Examination Reviewer Textbook
+--> 汉语水平考试 (HSK) Examination Reviewer Textbook
 
 #### Example#2: español; 
---> literature: Noli me tangere<br/>
---> literature: El amor en los tiempos del cólera
+--> literature: Jose Rizal's Noli me tangere<br/>
+--> literature: Gabriel García Márquez's El amor en los tiempos del cólera
 
 #### Example#3: français
---> literature: À la recherche du temps perdu
+--> literature: Marcel Proust's À la recherche du temps perdu
 
 ## Recommended Readings
-1) Tolstoy's Война и мир (Voyna i mir; War and Peace)<br/>
-2) Dostoevsky's Преступление и наказание (Prestupleniye i nakazaniye; Crime and Punishment)
+1) Leo Tolstoy's Война и мир (Voyna i mir; War and Peace)<br/>
+2) Fyodor Dostoevsky's Преступление и наказание (Prestupleniye i nakazaniye; Crime and Punishment)
 
 # 武闘家（ぶとうか）
 ## Recommended Actions:
