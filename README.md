@@ -31,6 +31,23 @@
 
 ### 2) verify: Body WEIGHT
 
+### 3) learn: via human languages HISTORY; 
+--> literature; another way of thinking
+
+#### Example#1: Chinese Mandarin @Confucius Institute, et cetera
+--> 汉语水平考试 （HSK) Examination Reviewer Textbook
+
+#### Example#2: español; 
+--> literature: Noli me tangere<br/>
+--> literature: El amor en los tiempos del cólera
+
+#### Example#3: français
+--> literature: À la recherche du temps perdu
+
+## Recommended Readings
+1) Tolstoy's Война и мир (Voyna i mir; War and Peace)<br/>
+2) Dostoevsky's Преступление и наказание (Prestupleniye i nakazaniye; Crime and Punishment)
+
 # 武闘家（ぶとうか）
 ## Recommended Actions:
 ### 1) execute: physical exercise 
