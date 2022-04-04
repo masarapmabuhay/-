@@ -37,9 +37,10 @@
 #### Example#1: Chinese Mandarin @Confucius Institute, et cetera
 --> 汉语水平考试 (HSK) Examination Reviewer Textbook
 
-#### Example#2: español; 
+#### Example#2: español
 --> literature: Jose Rizal's Noli me tangere<br/>
 --> literature: Gabriel García Márquez's El amor en los tiempos del cólera
+--> literature: Miguel de Cervantes's Don Quixote dela Mancha
 
 #### Example#3: français
 --> literature: Marcel Proust's À la recherche du temps perdu
