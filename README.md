@@ -78,11 +78,11 @@
 <br/>
 ・・・
 
-### 2) verify: FOOD
+### 3) verify: FOOD
 --> reminder: No need to eat animals and insects that eat dirt;<br/>
 --> reminder: NO need to eat PORK;
 
-### 3) verify: Body Mass Index (BMI)
+### 4) verify: Body Mass Index (BMI)
 BMI＝体重［kg］/ 身長［m]^2<br/>
 where: BMI = Body Mass Index<br/>
 体重 (taijuu) = katawan bigat<br/>
@@ -92,9 +92,15 @@ Example: 80kg / (1.80mm)^2 = 24.69<br/>
 Reminder: 180cm = 1.80mm<br/>
 Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); Normal Range
 
-### 4) learn: via human languages HISTORY; 
-#### Example#1: Deutsch; 
+### 5) learn: via human languages HISTORY; 
+#### Example#1: Deutsch
 --> Berlitz. (1993). German phrase book & dictionary. Switzerland: Berlitz Publishing Company, Ltd.
+
+### 6) learn: techniques in BUILDING; 
+--> build: Popsickle Stick FINNISH Sauna House with 7~year old children
+<img src="https://github.com/masarapmabuhay/-/blob/main/res/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg" width="60%">
+<br/>
+--> literature: ORHAN PAMUK's OTHER COLORS: ESSAYS AND STORY; Architecture
 
 ## Recommended Readings:
 ### 1) Vergil's AENEID
