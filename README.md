@@ -13,18 +13,72 @@
 --> If left as is, becomes brown to be classified via taste as 烏龍茶 (ウーロンちゃ； OOLONG Tea）<br/>
 --> Put cooked tea inside the refrigerator if weather is too hot;<br/>
 
-## Recommended Reading:
+### 3) set: to OFF computer games, television
+
+## Recommended Readings:
 ### 1) 聖書 (せいしょ; HOLY BOOK, BIBLE)： 
 --> shared: from Middle-East, 聖書 offered ANSWER to QUESTION<br/>
 --> on: HOW TO BE KING OF KINGDOM THAT NEVER ENDS;<br/> 
 --> ANSWER: Forget who YOU are; Remember who YOU are;<br/> 
 --> keyphrase: Guide to TIME;
 
+### 2) [Zen and Japanese Culture (Suzuki, D T.)](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965) 
+
 # 戦士（せんし）
 ## Recommended Actions:
 ### 1) execute: physical exercise 
 --> example: continuous running for 6kms (max) every day
 
+### 2) verify: Body WEIGHT
+
+# 武闘家（ぶとうか）
+## Recommended Actions:
+### 1) execute: physical exercise 
+--> example: continuous walking of 20mins every day<br/>
+--> notes: information available @戦士 (FIGHT scholar), albeit learns @武闘家 (Technique FIGHTING Household)
+
+### 2) learn: Shotokan Karate
+--> https://www.youtube.com/user/shotokankataman/videos;<br/>
+--> last accessed: 20210509<br/>
+--> Heian Shodan - Shotokan Karate<br/>
+--> Peace Beginner Level
+
+#### 2.1) 合気道 (あいきどう；aikidou）
+--> (pinagsamang kaluluwa daan)<br/>
+
+#### 2.2) 平安　（へいあん、初段～五段; heian, shodan ~ godan）
+--> (payapa; patag babae may bubong; simulang nibel ~ ikalimang nibel)<br/>
+
+#### 2.3) 鉄騎初段　（てつ＋き＋しょだん; tetsu + ki + shodan）
+--> bakal na kabayo malaki maaari simulang nibel<br/>
+
+#### 2.4) 抜塞大　（ぬく＋ふさぐ＋おおきい; nuku + fusagu + ookii）
+--> tanggalin baradong malaki
+
+#### 2.5) 観空大　（みる＋くう・そら＋おおきい; miru + kuu・sora + ookii）
+--> masdan kawalan・kalangitan malaki
+<br/>
+・・・
+
+### 2) verify: FOOD
+--> reminder: No need to eat animals and insects that eat dirt;<br/>
+--> reminder: NO need to eat PORK;
+
+### 3) verify: Body Mass Index (BMI)
+BMI＝体重［kg］/ 身長［m]^2<br/>
+where: BMI = Body Mass Index<br/>
+体重 (taijuu) = katawan bigat<br/>
+身長 (shinchou) = katawan haba<br/>
+<br/>
+Example: 80kg / (1.80mm)^2 = 24.69<br/>
+Reminder: 180cm = 1.80mm<br/>
+Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); Normal Range
+
+
+
+## Recommended Readings:
+### 1) Vergil's AENEID
+--> [David Silhanek Translation](https://www.amazon.com/Homers-Iliad-Vergils-Aeneid-Silhanek/dp/B000SHU4N8)
 
 # Creative Commons License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/; last accessed: 20180601
