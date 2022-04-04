@@ -91,11 +91,15 @@ Example: 80kg / (1.80mm)^2 = 24.69<br/>
 Reminder: 180cm = 1.80mm<br/>
 Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); Normal Range
 
-
+### 4) learn: via human languages HISTORY; 
+#### Example#1: Deutsch; 
+--> Berlitz. (1993). German phrase book & dictionary. Switzerland: Berlitz Publishing Company, Ltd.
 
 ## Recommended Readings:
 ### 1) Vergil's AENEID
 --> [David Silhanek Translation](https://www.amazon.com/Homers-Iliad-Vergils-Aeneid-Silhanek/dp/B000SHU4N8)
+
+### 2) [Voltaire's Micromégas](https://www.amazon.com/French-Stories-Fran%C3%A7ais-Dual-Language-English/dp/0486264432)
 
 # Creative Commons License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/; last accessed: 20180601
