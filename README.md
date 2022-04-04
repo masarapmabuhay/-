@@ -39,7 +39,7 @@
 
 #### Example#2: español
 --> literature: Jose Rizal's Noli me tangere<br/>
---> literature: Gabriel García Márquez's El amor en los tiempos del cólera
+--> literature: Gabriel García Márquez's El amor en los tiempos del cólera<br/>
 --> literature: Miguel de Cervantes's Don Quixote dela Mancha
 
 #### Example#3: français
@@ -97,7 +97,7 @@ Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); N
 --> Berlitz. (1993). German phrase book & dictionary. Switzerland: Berlitz Publishing Company, Ltd.
 
 ### 6) learn: techniques in BUILDING; 
---> build: Popsickle Stick FINNISH Sauna House with 7~year old children
+--> build: Popsickle Stick FINNISH Sauna House with 7~year old children<br/>
 <img src="https://github.com/masarapmabuhay/-/blob/main/res/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg" width="60%">
 <br/>
 --> literature: ORHAN PAMUK's OTHER COLORS: ESSAYS AND STORY; Architecture
