@@ -40,7 +40,7 @@
 #### Example#2: español
 --> literature: Jose Rizal's Noli me tangere<br/>
 --> literature: Gabriel García Márquez's El amor en los tiempos del cólera<br/>
---> literature: Miguel de Cervantes's Don Quixote dela Mancha
+--> literature: Miguel de Cervantes's Don Quixote de la Mancha
 
 #### Example#3: français
 --> literature: Marcel Proust's À la recherche du temps perdu
