@@ -24,6 +24,13 @@
 
 ### 2) [Zen and Japanese Culture (Suzuki, D T.)](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965) 
 
+### 3) Additional Literature
+--> Albert Camus's [La peste](https://www.amazon.com/Peste-Albert-Camus/dp/082883668X)<br/>
+--> Norman Cousins' [Anatomy of an Illness](https://www.amazon.com/Anatomy-Illness-Perceived-Twentieth-Anniversary/dp/0393326845)<br/>
+--> Tracy Kidder's [Strength in What Remains](https://www.amazon.com/Strength-Remains-Random-Readers-Circle/dp/0812977610)<br/>
+--> John Langone's [Harvard Med](https://www.amazon.com/Harvard-Med-Americas-Premier-Medical/dp/1558506101)<br/>
+--> Ting Tiongco's [Surgeons Do Not Cry](https://museokordilyera.upb.edu.ph/product/surgeons-do-not-cry/)
+
 # 戦士（せんし）
 ## Recommended Actions:
 ### 1) execute: physical exercise 
