@@ -45,7 +45,7 @@
 --> 汉语水平考试 (HSK) Examination Reviewer Textbook
 
 #### Example#2: español
---> literature: Jose Rizal's Noli me tangere<br/>
+--> literature: José Rizal's Noli me tangere<br/>
 --> literature: Gabriel García Márquez's El amor en los tiempos del cólera<br/>
 --> literature: Miguel de Cervantes's Don Quixote de la Mancha
 
@@ -57,6 +57,7 @@
 2) Fyodor Dostoevsky's Преступление и наказание (Prestupleniye i nakazaniye; Crime and Punishment)
 
 # NEXT AVAILABLE PATH: [武闘家（ぶとうか）](https://github.com/masarapmabuhay/-/blob/main/BUTOUKA.md)
+# NEXT AVAILABLE PATH: [盗賊（とうぞく）](https://github.com/masarapmabuhay/-/blob/main/TOUZOKU.md)
 
 # Creative Commons License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/; last accessed: 20180601
