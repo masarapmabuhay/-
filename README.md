@@ -4,9 +4,16 @@
 # 僧侶（そうりょ）
 ## Recommended Actions:
 ### 1) teach: @SCHOOL
---> received: from student, question on TIME: how to experience ETERNITY<br/>
+#### 1.1) received: from student, question on TIME: How to experience ETERNITY?<br/>
+--> answer: from 聖書 (せいしょ; HOLY BOOK, BIBLE): Forget who YOU are; Realize who YOU are;<br/> 
 --> shared: 哲学者　(てつがくしゃ；philosophers) from China travelled to Japan;<br/>
 --> TIME of WAR; Samurai (male and female) searching for ANSWER TO PEACE OF MIND;<br/>
+
+#### 1.2) received: from student, question on LIFE: What is ETERNAL LIFE?<br/>
+--> shared: question usually asked by people thinking about DEATH;<br/>
+--> Example: People who is @AGE when select family members and friends have passed away;<br/>
+--> reminder: cherish LIFE due to death is END;<br/>
+--> shared: re-incarnation/auto-regeneration/resurrection DANGEROUS due to current LIFE NOT cherished; 
 
 ### 2) learn: to prepare 煎茶（せんちゃ; green tea）
 --> A set of green tea leaves can be reused for 2~3times;<br/>
@@ -19,8 +26,8 @@
 ### 1) 聖書 (せいしょ; HOLY BOOK, BIBLE)： 
 --> shared: from Middle-East, 聖書 offered ANSWER to QUESTION<br/>
 --> on: HOW TO BE KING OF KINGDOM THAT NEVER ENDS;<br/> 
---> ANSWER: Forget who YOU are; Remember who YOU are;<br/> 
---> keyphrase: Guide to TIME;
+--> ANSWER: Forget who YOU are; Realize who YOU are;<br/> 
+--> keyphrase: [Guide to TIME](https://github.com/usbong/documentation/blob/master/Usbong%20School/Guide%20to%20Time.md);
 
 ### 2) [Zen and Japanese Culture (Suzuki, D T.)](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965) 
 
