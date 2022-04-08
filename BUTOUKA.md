@@ -58,3 +58,5 @@ Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); N
 --> [David Silhanek Translation](https://www.amazon.com/Homers-Iliad-Vergils-Aeneid-Silhanek/dp/B000SHU4N8)
 
 ### 2) [Voltaire's Micromégas](https://www.amazon.com/French-Stories-Fran%C3%A7ais-Dual-Language-English/dp/0486264432)
+
+# NEXT AVAILABLE PATH: [バトルマスター（ばとるますたー)](https://github.com/masarapmabuhay/-/blob/main/BATORUMASUTA-.md)
