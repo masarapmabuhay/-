@@ -67,6 +67,7 @@
 # NEXT AVAILABLE PATH: [盗賊（とうぞく）](https://github.com/masarapmabuhay/-/blob/main/TOUZOKU.md)
 # NEXT AVAILABLE PATH: [魔法使い（まほうつかい）](https://github.com/masarapmabuhay/-/blob/main/MAHOUTSUKAI.md)
 # NEXT AVAILABLE PATH: [遊び人（あそびにん）](https://github.com/masarapmabuhay/-/blob/main/ASOBININ.md)
+# NEXT AVAILABLE PATH: [商人（しょうにん）](https://github.com/masarapmabuhay/-/blob/main/SHOUNIN.md)
 
 # Creative Commons License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/; last accessed: 20180601
