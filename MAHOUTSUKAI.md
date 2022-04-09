@@ -13,3 +13,17 @@ Hiwagang PARAAN Manggagamit
 --> +La commedia: Purgatorio, Paradiso<br/>
 --> reminder: In JOURNEY, select PEOPLE stuck in Inferno,<br/>
 --> With Optimistic View due to La commedia, only DELAYED to Paradiso
+
+### Additional Literature
+#### 1) M. Scott Peck's [Further Along the Road Less Traveled: The Unending Journey Toward Spiritual Growth](https://www.amazon.com/Further-Along-Road-Less-Traveled/dp/0671781596)
+--> where: There exist LEVELS of variation in BELIEF<br/>
+--> where: Select PEOPLE are @LEVEL as PHASE in LIFE to MOVE @their OWN PACE;<br/>
+
+#### 2) M. Scott Peck's [In Heaven As on Earth: A Vision of the Afterlife](https://www.amazon.com/Heaven-As-Earth-Vision-Afterlife/dp/078688374X)
+--> where: HEAVEN as ILLUSION based on continuous explanation of VIEW to be ACCEPTABLE to TARGET person;<br/>
+--> caution: with select explanation due to classified to be LIE, i.e. INCORRECT;<br/>
+
+#### Reminder: 
+Psychologist : Psychiatrist;<br/>
+NO Medicine Prescription : Medicine Prescription<br/>
+
