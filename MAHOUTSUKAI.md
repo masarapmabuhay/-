@@ -12,4 +12,4 @@ Hiwagang PARAAN Manggagamit
 --> however, NOT immediately = FUNNY;<br/>
 --> +La commedia: Purgatorio, Paradiso<br/>
 --> reminder: In JOURNEY, select PEOPLE stuck in Inferno,<br/>
---> With Optimistic View due La commedia, only DELAYED to Paradiso
+--> With Optimistic View due to La commedia, only DELAYED to Paradiso
