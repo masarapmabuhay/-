@@ -60,3 +60,4 @@ Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); N
 ### 2) [Voltaire's Micromégas](https://www.amazon.com/French-Stories-Fran%C3%A7ais-Dual-Language-English/dp/0486264432)
 
 # NEXT AVAILABLE PATH: [バトルマスター（ばとるますたー)](https://github.com/masarapmabuhay/-/blob/main/BATORUMASUTA-.md)
+# NEXT AVAILABLE PATH: [パラディン（ぱらでぃん)](https://github.com/masarapmabuhay/-/blob/main/PARADIN.md)
