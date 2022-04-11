@@ -51,7 +51,15 @@ Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); N
 --> build: Popsickle Stick FINNISH Sauna House with 7~year old children<br/>
 <img src="https://github.com/masarapmabuhay/-/blob/main/res/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg" width="30%">
 <br/>
---> literature: ORHAN PAMUK's OTHER COLORS: ESSAYS AND STORY; Architecture
+<br/>
+--> literature: ORHAN PAMUK's [OTHER COLORS: ESSAYS AND STORY](https://www.amazon.com/Other-Colors-Essays-Vintage-International/dp/0307386236); Architecture<br/>
+where: OUTER part of BUILDING STRUCTURE may have increased VARIATIONS;<br/>
+where: VITAL is that CORE = WITHOUT VARIATIONS; CLEAN, i.e. MALINIS;<br/>
+
+#### Additional Reading:
+--> Karen Armstrong's [Islam: A Short History (Modern Library Chronicles)](https://www.amazon.com/Islam-History-Modern-Library-Chronicles/dp/081296618X)<br/>
+--> where: identify pattern in CAUSE of FALL of EMPIRES;<br/>
+--> Example: OTTOMAN EMPIRE 
 
 ## Recommended Readings:
 ### 1) Vergil's AENEID
