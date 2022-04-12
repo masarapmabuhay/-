@@ -12,3 +12,5 @@ PALADIN (Technique FIGHTING Household + そうりょ)
 
 ## Recommended Action:
 --> learn: SCIENCE (理系（りけい）、科学（かがく）)
+
+# NEXT AVAILABLE PATH: [踊り子（おどりこ）](https://github.com/masarapmabuhay/-/blob/main/ODORIKO.md)
