@@ -3,13 +3,13 @@
 
 # 僧侶（そうりょ）
 ## Recommended Actions:
-### 1) teach: @SCHOOL
+### 1) teach: @[SCHOOL](https://github.com/usbong/school)
 #### 1.1) received: from student, question on TIME: How to experience ETERNITY?<br/>
 --> answer: from 聖書 (せいしょ; HOLY BOOK, BIBLE): Forget who YOU are; Realize who YOU are;<br/> 
 --> shared: 哲学者　(てつがくしゃ；philosophers) from China travelled to Japan;<br/>
 --> TIME of WAR; Samurai (male and female) searching for ANSWER TO PEACE OF MIND;<br/>
 
-#### 1.2) received: from student, question on LIFE: What is ETERNAL LIFE?<br/>
+#### 1.2) received: from student, question on LIFE: What is [ETERNAL LIFE](https://github.com/masarapmabuhay/-/issues/1)?<br/>
 --> shared: question usually asked by people thinking about DEATH;<br/>
 --> Example: People who is @AGE when select family members and friends have passed away;<br/>
 --> reminder: cherish LIFE due to death is END;<br/>
