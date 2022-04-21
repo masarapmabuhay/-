@@ -11,6 +11,11 @@ PALADIN (Technique FIGHTING Household + そうりょ)
 --> science keyphrase: CORRECT, identification, classification<br/> 
 
 ## Recommended Action:
---> learn: SCIENCE (理系（りけい）、科学（かがく）)
+--> learn: SCIENCE (理系（りけい）、科学（かがく）)<br/>
+<br/>
+--> <b>objective:</b> to create <b>ORDER</b> from the <b>CHAOS</b> of <b>disorganized THOUGHTS and IDEAS</b><br/>
+<br/>
+--> where: <b>MANLOLOKO</b>/budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista causes <b>CHAOS</b><br/>
+--> <b>reminder:</b> Increase in Teroristang Komunista : Speed-up of <b>SOCIAL CANCER</b>
 
 # NEXT AVAILABLE PATH: [踊り子（おどりこ）](https://github.com/masarapmabuhay/-/blob/main/ODORIKO.md)
