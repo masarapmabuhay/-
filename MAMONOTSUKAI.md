@@ -61,7 +61,7 @@ where: CORE IDEA as applied in your LIFE;<br/>
 2) share: with public your NOTES<br/>
 
 ### Example
-1) Johann Wolfgang von Goethe (Author)'s [Maxims and Reflections (Penguin Classics)](https://www.amazon.com/Maxims-Reflections-Penguin-Classics-Wolfgang/dp/0140447202)<br/>
+Example.1) Johann Wolfgang von Goethe (Author)'s [Maxims and Reflections (Penguin Classics)](https://www.amazon.com/Maxims-Reflections-Penguin-Classics-Wolfgang/dp/0140447202)<br/>
 --> [gutenberg.org ELECTRONIC BOOK version](https://www.gutenberg.org/files/33670/33670-h/33670-h.htm)<br/>
 
 <b>Example NOTES</b>
@@ -74,6 +74,11 @@ where: CORE IDEA as applied in your LIFE;<br/>
 > --> add: examples via continuation of story;<br/>
 >
 > reminder: NO NEED to use available TIME executing verifications, IF CORE IDEA already CLEAR;
+
+Example.2) 日本語 (nihongo) NOTES from the Year 2004~
+
+<img src="https://github.com/masarapmabuhay/-/blob/main/res/nihongoNotes20220410T1601.jpg" width="60%">
+
 
 3) learn: to write instructions for computer automation BOTS to assist in <b>QUICKLY</b> and <b>CORRECTLY</b> counting transactions<br/>
 --> where: counting : Maparaang Pagbibilang<br/>
