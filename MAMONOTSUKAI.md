@@ -79,9 +79,12 @@ Example.2) 日本語 (nihongo) NOTES from the Year 2004~
 
 <img src="https://github.com/masarapmabuhay/-/blob/main/res/nihongoNotes20220410T1601.jpg" width="60%">
 
-
 3) learn: to write instructions for computer automation BOTS to assist in <b>QUICKLY</b> and <b>CORRECTLY</b> counting transactions<br/>
 --> where: counting : Maparaang Pagbibilang<br/>
 --> <b>Example:</b> [Knowledge Management System (KMS)](https://github.com/usbong/KMS)<br/>
+
+<img src="https://github.com/usbong/KMS/blob/master/Notes/res/exampleTabletPCSoftwareHardwareWithMedItemBoxTechnique20220314T1158.jpg" width="60%">
+
+
 --> <b>reminder#1:</b> computer instructions contain the techniques as steps to be auto-executed<br/> 
 --> <b>reminder#2:</b> literature, e.g. from books, Terms and Conditions, Agreement, also contain techniques 
