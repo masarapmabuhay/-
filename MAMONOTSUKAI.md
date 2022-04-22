@@ -3,7 +3,57 @@ Hiwagang Bagay Manggagamit
 
 ## Recommended Reading:
 ### 1) David B. Agus, MD's [The End of Illness](https://www.amazon.com/End-Illness-David-Agus-M-D/dp/145161019X)
---> TO-DO: -add: NOTES
+
+#### Example Notes
+
+> The Science and Art of Defining Your Health<br/>
+> 
+> @xxii~xxiii (Foreword)<br/>
+> Heart disease accounts for nearly 1/3 of all deaths worldwide<br/>
+> --> preventive medicine; due to cost-effective as Return-on-Investment (RoI)<br/>
+>
+> Example: Heart Attack Treatment COST >= 10,000's of USD<br/>
+> --> execute: Tests + Medical DRUG COST = 200USD (approx)<br/>
+>
+> Dagdag:<br/>
+> --> Pumunta ka sa Palengke; puso ng baboy; pigain mo iyon;<br/>
+> --> Ang mga buu-buong dugo, 'yan ang bumabara sa ugat;<br/>
+> --> Dulot nito: stroke, heart attack<br/>
+>
+> @40 (What is Health?)<br/>
+> protein: creates language of our bodies, language of health<br/>
+> DNA static; proteins dynamic due to has INFORMATION on "state" of body<br/>
+>
+> @115~116 (Two French Restaurants, One Without Butter)<br/>
+> understand behavior of "whole" via interaction among its parts<br/>
+> Example: Whole Body; interaction of genes, proteins, molecules that play a defining role<br/>
+> 
+> HISTORY <br/>
+> engineering evolution: control complex systems without necessarily understanding them<br/>
+> medicine: understanding, but NOT yet controlling<br/>
+>
+> Example: Sun Microsystems (now ORACLE)<br/>
+> --> In the Year 2009, CAN predict the faulty component to cause system failure<br/>
+> 
+> Medicine Application Example:<br/>
+> observed: pattern in X proteins, <br/>
+> --> output: problem Y, drug Z would help <br/>
+>
+> Glucose = sugar molecule (chief source of energy), drives cellular metabolism<br/>
+> Proteins = regulate production and breakdown of molecules<br/>
+>
+> @162 (The Elements of Healthy Style)<br/>
+> original premise of book: BODY is complex system<br/>
+> CHANGE in one variable will have many effects in system<br/>
+> --> we have yet to develop technology to fully comprehend<br/>
+>
+> @228 (The Elements of Healthy Styl)<br/>
+> exercise to reverse aging<br/>
+>
+> @230 (The Elements of Healthy Style)<br/>
+> short bursts v.s. marathons<br/>
+> --> prefers: short bursts <br/>
+> --> 6hrs >= sitting causes health problem<br/>
 
 ## Recommended Action:
 1) learn: to quickly identify the CORE IDEA of READINGS;<br/>
@@ -25,7 +75,8 @@ where: CORE IDEA as applied in your LIFE;<br/>
 >
 > reminder: NO NEED to use available TIME executing verifications, IF CORE IDEA already CLEAR;
 
-2) learn: to write instructions for computer automation BOTS to assist in <b>QUICKLY</b> and <b>CORRECTLY</b> counting transactions<br/>
+3) learn: to write instructions for computer automation BOTS to assist in <b>QUICKLY</b> and <b>CORRECTLY</b> counting transactions<br/>
 --> where: counting : Maparaang Pagbibilang<br/>
+--> <b>Example:</b> [Knowledge Management System (KMS)](https://github.com/usbong/KMS)<br/>
 --> <b>reminder#1:</b> computer instructions contain the techniques as steps to be auto-executed<br/> 
 --> <b>reminder#2:</b> literature, e.g. from books, Terms and Conditions, Agreement, also contain techniques 
