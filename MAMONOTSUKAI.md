@@ -16,8 +16,9 @@ Hiwagang Bagay Manggagamit
 > --> execute: Tests + Medical DRUG COST = 200USD (approx)<br/>
 >
 > Dagdag:<br/>
-> --> Pumunta ka sa Palengke; puso ng baboy; pigain mo iyon;<br/>
+> --> Pumunta ka sa Palengke; puso ng BABOY; pigain mo iyon;<br/>
 > --> Ang mga buu-buong dugo, 'yan ang bumabara sa ugat;<br/>
+> --> Sanhi: mga TABA (FATS) mula sa BABOY, atbp na hirap sunugin sa katawan; kulang na sa pagkilos  
 > --> Dulot nito: stroke, heart attack<br/>
 >
 > @40 (What is Health?)<br/>
