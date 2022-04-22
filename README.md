@@ -16,6 +16,8 @@
 --> shared: re-incarnation/auto-regeneration/resurrection DANGEROUS due to current LIFE NOT cherished; 
 
 ### 2) learn: to prepare 煎茶（せんちゃ; green tea）
+<img src="https://github.com/usbong/newsletters/blob/main/res/shareWithUnit%E7%85%8E%E8%8C%B6%EF%BC%88%E3%81%9B%E3%82%93%E3%81%A1%E3%82%83%EF%BC%89KnowHow20220329T0817.jpg" width="30%">
+
 --> A set of green tea leaves can be reused for 2~3times;<br/>
 --> If left as is, becomes brown to be classified via taste as 烏龍茶 (ウーロンちゃ； OOLONG Tea）<br/>
 --> Put cooked tea inside the refrigerator if weather is too hot;<br/>
