@@ -48,7 +48,7 @@ Hiwagang Bagay Manggagamit
 > CHANGE in one variable will have many effects in system<br/>
 > --> we have yet to develop technology to fully comprehend<br/>
 >
-> @228 (The Elements of Healthy Styl)<br/>
+> @228 (The Elements of Healthy Style)<br/>
 > exercise to reverse aging<br/>
 >
 > @230 (The Elements of Healthy Style)<br/>
@@ -60,6 +60,9 @@ Hiwagang Bagay Manggagamit
 1) learn: to quickly identify the CORE IDEA of READINGS;<br/>
 where: CORE IDEA as applied in your LIFE;<br/>
 2) share: with public your NOTES<br/>
+--> reminder: There exists the following ACTION:<br/> 
+--> FROM Class Essays Notes TO BOOK Publication<br/>
+--> https://blakemasters.com/peter-thiels-cs183-startup; last accessed: 20220426
 
 ### Example
 Example.1) Johann Wolfgang von Goethe (Author)'s [Maxims and Reflections (Penguin Classics)](https://www.amazon.com/Maxims-Reflections-Penguin-Classics-Wolfgang/dp/0140447202)<br/>
