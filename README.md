@@ -51,7 +51,8 @@
 --> literature; another way of thinking
 
 #### Example#1: Chinese Mandarin @Confucius Institute, et cetera
---> 汉语水平考试 (HSK) Examination Reviewer Textbook
+--> 汉语水平考试 (HSK) Examination Reviewer Textbook<br/>
+--> Example#1.1: [中国語検定 HSK 公式 過去問集 5級 (2013年度版) CD付 Tankobon Softcover](https://www.amazon.co.jp/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E6%A4%9C%E5%AE%9A-HSK-%E9%81%8E%E5%8E%BB%E5%95%8F%E9%9B%86-2013%E5%B9%B4%E5%BA%A6%E7%89%88-CD%E4%BB%98/dp/4906725147)
 
 #### Example#2: español
 --> literature: José Rizal's Noli me tangere<br/>
