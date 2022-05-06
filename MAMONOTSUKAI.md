@@ -61,8 +61,15 @@ Hiwagang Bagay Manggagamit
 where: CORE IDEA as applied in your LIFE;<br/>
 2) share: with public your NOTES<br/>
 --> reminder: There exists the following ACTION:<br/> 
---> FROM Class Essays Notes TO BOOK Publication<br/>
---> https://blakemasters.com/peter-thiels-cs183-startup; last accessed: 20220426
+--> <b>FROM Class Essays Notes TO BOOK Publication</b><br/>
+--> https://blakemasters.tumblr.com/peter-thiels-cs183-startup; last accessed: 20220507<br/>
+--> <b>FROM Class Essays Notes TO BOOK Publication TO U.S.A. Senate Candidate</b><br/>
+--> https://blakemasters.com/peter-thiels-cs183-startup; last accessed: 20220507; from 20220426<br/>
+--> <b>Recommended Action:</b> verify OUTPUT after school graduation IF person did learn;<br/>
+--> classifies: graduates who execute ACTIONS, e.g. smuggling, carnapping,<br/> 
+--> despite passing school EXAMINATIONS to have NOT learned;<br/> 
+--> passed due to <b>CHEATING</b>;<br/>
+--> [Education Fails due to Cheating that remains Undetected](https://github.com/usbong/documentation/blob/master/Usbong/R%26D/Notes/References/computerCards.md)
 
 ### Example
 Example.1) Johann Wolfgang von Goethe (Author)'s [Maxims and Reflections (Penguin Classics)](https://www.amazon.com/Maxims-Reflections-Penguin-Classics-Wolfgang/dp/0140447202)<br/>
