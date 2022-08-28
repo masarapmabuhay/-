@@ -89,7 +89,7 @@ STABLE INCOME should be obtained
 
 > 「将来は納豆屋になりたい。一丁（兆）、二丁と数えるような・・・・・・」
 
-"In the FUTURE, I want to be a NATTOU seller. 1　trillion, 2 trillion, can be like counted......"<br/>
+"In the FUTURE, I want to be a NATTOU seller. 1 trillion, 2 trillion, can be like counted......"<br/>
 
 ### Additional Note:
 1) 「丁」 in 「一丁（兆）」, reminds me of STREET RESIDENCE ADDRESS
@@ -97,3 +97,13 @@ STABLE INCOME should be obtained
 ### Reference:
 1) 日本の「黒幕」200人
 ISBN:978-4-7966-7375-4
+
+## Example Lessons-learned from observation @WORK
+https://github.com/usbong/FLASH
+
+### SAMSUNG (삼성; 三星; Tatlong Bituin) technique
+--> where: builds TRANSISTORS for companies to use in new products,<br/>
+--> while SAMSUNG buys older products with their software tech, e.g. J2ME, Flash;<br/>
+--> adds: such software tech's tools NOT anymore quickly available for public use with SAMSUNG hardware;<br/>
+--> SAMSUNG Mobile Telephone (J2ME) @750PHP (approx)
+
